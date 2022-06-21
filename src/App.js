@@ -6,7 +6,7 @@ function App() {
   return (
     //Componen dengan nama kelas Todo-app
     <div className='todo-app'>
-      // Merender file TodoList
+      {/*  Merender file TodoList */}
       <TodoList />
     </div>
   );

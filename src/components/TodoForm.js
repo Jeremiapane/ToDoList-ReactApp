@@ -26,7 +26,7 @@ function TodoForm(props) {
 
   return (
     <form onSubmit={handleSubmit} className='todo-form'>
-      //fungsi kondisional ketika icon edit ditekan
+      {/* //fungsi kondisional ketika icon edit ditekan */}
       {props.edit ? (
         // fragments
         <>

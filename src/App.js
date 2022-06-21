@@ -1,14 +1,15 @@
 import React from 'react';
 import './App.css';
-import TodoForm from './components/TodoForm';
+import TodoList from './components/TodoList';
 
 function App() {
-    return ( 
-
-      <div className = "todo-App" >
-      <TodoForm/>
-      </div>
-    );
+  return (
+    //Componen dengan nama kelas Todo-app
+    <div className='todo-app'>
+      // Merender file TodoList
+      <TodoList />
+    </div>
+  );
 }
 
 export default App;

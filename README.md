@@ -1,3 +1,3 @@
 # Todo-List App with React
 
-This project was created as a requirement to pass web development training with React by Progate and Digital Talent Scholarship
+This is an individual project as one of the requirements to complete web development training with React by Progate and Digital Talent Scholarship
